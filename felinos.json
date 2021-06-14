@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "El tigre",
+        "urlImg": "./img/tiger.jpg",
+        "contenido": "El tigre (Panthera tigris) es una de las especies​ de la subfamilia de los panterinos (familia Felidae) pertenecientes al género Panthera. Se encuentra solamente en el continente asiático; es un predador carnívoro y es la especie de félido más grande del mundo junto con el león pudiendo alcanzar ambos un tamaño comparable al de los fósiles de félidos de mayor tamaño."
+    },
+    {
+        "titulo": "El leon",
+        "urlImg": "./img/leon.jpg",
+        "contenido": "El león (Panthera leo) es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera. Los leones salvajes viven en poblaciones cada vez más dispersas y fragmentadas del África subsahariana (a excepción de las regiones selváticas de la costa del Atlántico y la cuenca del Congo) y una pequeña zona del noroeste de India"
+    },
+    {
+        "titulo": "El leopardo",
+        "urlImg": "./img/leopardo.jpg",
+        "contenido": "El leopardo (Panthera pardus) es un mamífero carnívoro de familia de los félidos. Al igual que tres de los demás félidos del género Panthera: el león, el tigre y el jaguar, están caracterizados por una modificación en el hueso hioides que les permite rugir. También se lo conoce como pantera parda y, cuando presenta un pelaje completamente oscuro como pantera negra (melánico)."
+    },
+    {
+        "titulo": "La pantera negra",
+        "urlImg": "./img/pantera-negra.jpg",
+        "contenido": "La pantera negra es una variación negra (melanismo) de varias especies de grandes félidos, en especial del leopardo (Panthera pardus) y del jaguar (Panthera onca). Pero cabe recalcar que no es una nueva especie, ni siquiera una subespecie, es simplemente una variación negra de estos animales."
+    },
+    {
+        "titulo": "El jaguar",
+        "urlImg": "./img/jaguar.jpg",
+        "contenido": "El jaguar, yaguar o yaguareté (Panthera onca) es un carnívoro félido de la subfamilia de los Panterinos y género Panthera. Es la única de las cinco especies actuales de este género que se encuentra en América. También es el mayor félido de América y el tercero del mundo, después del tigre (Panthera tigris) y el león (Panthera leo)."
+    },
+    {
+        "titulo": "El guepardo",
+        "urlImg": "./img/chita.jpg",
+        "contenido": "El guepardo o chita (Acinonyx jubatus)1​ es un miembro atípico de la familia de los félidos. Es el único representante vivo del género Acinonyx. Caza gracias a su vista y a su gran velocidad. Es el animal terrestre más veloz, ya que alcanza una velocidad punta de 115 km/h en carreras de hasta cuatrocientos o quinientos metros."
+    },
+    {
+        "titulo": "El león blanco",
+        "urlImg": "./img/leon-blanco.jpg",
+        "contenido": "El león blanco se encuentra ocasionalmente en las reservas naturales de África del Sur, y se cría selectivamente en muchos zoológicos del mundo entero. Según las creencias africanas, este animal es divino y si se cruza en tu camino da felicidad. Su existencia ha sido relevante en el público desde los años 1970 por Chris McBride en su libro Los leones blancos de Timbavati (The White Lions of Timbavati). Según lo que se cree, su genética ha estado siempre en la de los leones normales, pero debido a que es un gen recesivo, es muy raro que aparezca este tipo de leones (es por eso que se había visto apenas por primera vez en la década de los 70) y en estado salvaje no pueden sobrevivir mucho tiempo, ya que por su pelaje blanco, no tiene el camuflaje indicado que a los leones normales les permite cazar sin ningún tipo de problema. Estos leones se encontraron por primera vez en Timbavati. Para la tribu local de esta región, los leones blancos son sagrados."
+    },
+    {
+        "titulo": "El tigre de bengala",
+        "urlImg": "./img/tigre-bengala.jpg",
+        "contenido": "El tigre de Bengala (Panthera tigris tigris), también conocido como tigre de Bengala real o tigre indio es una de las ocho subespecies de tigre (Panthera tigris), de las cuales cinco están amenazadas y tres ya extintas. Y es que al tigre de Bengala de poco le ha servido su gran porte, su hipnotizadora mirada y la fuerza que transmite, ya que pese a todo está en peligro de extinción. Aun así, es la subespecie más numerosa y conocida de tigre que actualmente existe. Un dato bueno por un lado, pero preocupante por el otro, porque hay que tener en cuenta que la subespecie más numerosa está en peligro, por lo que las demás están en peor situación."
+    },
+    {
+        "titulo": "El lince",
+        "urlImg": "./img/lince.jpg",
+        "contenido": "Lynx es un género de mamíferos carnívoros de la familia Felidae vulgarmente conocidos como linces. Se conocen cuatro especies caracterizadas por su tamaño medio, fuertes patas, largas orejas, cola corta y cuerpo más o menos moteado. Todas las especies habitan exclusivamente en el Hemisferio Norte, en Eurasia y Norteamérica (de donde parecen ser originarios). El llamado lince africano (Caracal caracal), que habita en África y gran parte de Asia Central y Occidental, es en realidad un felino escasamente emparentado que guarda algunas semejanzas externas con los representantes del género Lynx fruto de la convergencia evolutiva, como son su cola, excepcionalmente corta (poco más que un simple muñón), y sus grandes orejas, coronadas por largos penachos de pelo negro en la punta que sirven para     incrementar su ya de por sí gran audición. También existen unos característicos mechones de pelo largo en las mejillas."
+    }
+]
